@@ -1,8 +1,8 @@
-PutMask for encoding and decoding video and audio use from Gstreamer library
+PutMask & PutEmoji for encoding and decoding video and audio use from Gstreamer library
 
 "GStreamer is a plugin-based framework licensed under the LGPL."
 
-So because of this license, we want to show you how you can use specific Gstreamer library beside PutMask
+So because of this license, we want to show you how you can use specific Gstreamer library beside PutMask & PutEmoji
 First download PutMask from Google Play Store
 
 https://www.wikihow.com/Download-an-APK-File-from-the-Google-Play-Store
